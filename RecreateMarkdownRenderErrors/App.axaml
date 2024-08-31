@@ -1,0 +1,9 @@
+<Application x:Class="RecreateMarkdownRenderErrors.App"
+             xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:sty="using:FluentAvalonia.Styling"
+             RequestedThemeVariant="Dark">
+    <Application.Styles>
+        <SimpleTheme />
+    </Application.Styles>
+</Application>
